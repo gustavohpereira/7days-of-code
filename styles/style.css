@@ -1,0 +1,21 @@
+@import url("cabecalho.css");
+@import url("seção1.css");
+@import url("metricas.css");
+@import url("vagas.css");
+@import url("depoimentos.css");
+@import url("rodape.css");
+
+/* variaveis */
+:root{
+    --branco:#FFFFFF;
+    --vermelho:#8E2424;
+    --cinza:#667085;
+}
+
+body{
+    background-color: var(--branco);
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+
+}

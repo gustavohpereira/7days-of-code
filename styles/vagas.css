@@ -1,0 +1,60 @@
+.anuncio_vagas{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.vagas_span{
+    font-size: 14px;
+    color: var(--vermelho);
+}
+
+.vagas_titulo{
+    margin: 20px 0;
+    font-size: 36px;
+    font-weight: 600;
+}
+.vagas_subtitulo{
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cinza);
+    margin-bottom: 4rem;
+}
+
+.vagas img{
+    margin: 4rem 7rem;
+}
+
+
+
+.vagas_cargos{
+    padding: 0 336px;
+    margin-top: 4rem;
+    margin-bottom: 6rem;
+}
+.vagas_categoria{
+    margin-bottom: 2rem;
+    font-size: 20px;
+
+}
+
+.container_vagas{
+    margin-bottom: 4rem;
+    
+}
+
+.vagas{
+    
+    padding: 24px 24px 28px 24px;
+    margin-bottom: 1.5rem;
+
+}
+.vagas_cargos_titulo{
+    margin-bottom: 2rem;
+    font-size:18px
+}
+.informações_vaga{
+    display: flex;
+    column-gap: 1.5rem;
+    color: var(--cinza);
+}
